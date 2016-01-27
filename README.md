@@ -25,6 +25,13 @@ Wyoming public documents
    city
    township
    community
+   
+.. _delimitation:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Delimitation
+   
    districts
    precincts
    wards
@@ -41,6 +48,7 @@ Wyoming public documents
    geography
    population
    sovereignty
+   bias
    
    
    
